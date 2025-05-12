@@ -1,0 +1,9 @@
+[[WiringPi]]
+arch = "aarch64"
+git-tree-sha1 = "b2b95ce4cac62d490395ac9a20b55f461a5ba32f"
+libc = "glibc"
+os = "linux"
+
+    [[WiringPi.download]]
+    sha256 = "d1fa61c039b5f5e57be70e3943f134cfaf53aa40bc8564c254c8c15bad52cd44"
+    url = "https://github.com/JuliaBinaryWrappers/WiringPi_jll.jl/releases/download/WiringPi-v3.14.0+0/WiringPi.v3.14.0.aarch64-linux-gnu.tar.gz"
