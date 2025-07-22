@@ -1,6 +1,6 @@
 name = "WiringPi_jll"
 uuid = "39e6258f-44e5-5edf-b49b-51a5e5bce6ab"
-version = "3.14.0+0"
+version = "3.16.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
